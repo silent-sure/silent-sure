@@ -1,6 +1,6 @@
 ## About me
 - A student at the College of the Environment and Ecology, Xiamen University
-- A member of XMU competitive programming team
+- A member of XMU's competitive programming team
 - Formerly an Olympiad in Informatics (OI) participant
 - Love programming and embrace the open-source community
 - Write programs with C, C++, Java, and Python.
