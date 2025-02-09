@@ -1,7 +1,7 @@
 ## About me
 - A student at the College of the Environment and Ecology, Xiamen University
-- Formerly an Olympiad in Informatics (OI) contestant
+- A member of XMU competitive programming team
+- Formerly an Olympiad in Informatics (OI) participant
 - Love programming and embrace the open-source community
-- Currently familiar with C and C++
-- Knows a bit of Python
+- Write programs with C, C++, Java, and Python.
 - The meaning of my username: Open-source contributors are largely **silent**, but we are **sure** that we can make a difference.
